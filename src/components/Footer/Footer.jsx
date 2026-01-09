@@ -8,11 +8,11 @@ export function Footer() {
                     Desarrollado por
                     <span className="flex gap-2 font-bold text-sky-200">
                         <Anchor href="https://jeremydiaz.netlify.app/" target="_blank">
-                            jevmydev
+                            Jeremy-cdc
                         </Anchor>
                     </span>
                 </p>
-                <Anchor href="https://github.com/jevmydev/skytracker" target="_blank">
+                <Anchor href="https://github.com/jeremy-cdc/skytracker" target="_blank">
                     Código abierto
                 </Anchor>
             </div>
