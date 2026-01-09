@@ -7,10 +7,10 @@
     "author": "Jeremy Díaz",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jevmydev/skytracker.git"
+        "url": "git+https://github.com/jeremy-cdc/skytracker.git"
     },
     "bugs": {
-        "url": "https://github.com/jevmydev/skytracker/issues"
+        "url": "https://github.com/jeremy-cdc/skytracker/issues"
     },
     "start_url": "./index.html",
     "homepage": "https://skytracker.netlify.app/"
