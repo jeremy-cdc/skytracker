@@ -8,7 +8,7 @@ export function Footer() {
                     Desarrollado por
                     <span className="flex gap-2 font-bold text-sky-200">
                         <Anchor href="https://jeremydiaz.netlify.app/" target="_blank">
-                            Jeremy-cdc
+                            jeremycdc
                         </Anchor>
                     </span>
                 </p>
